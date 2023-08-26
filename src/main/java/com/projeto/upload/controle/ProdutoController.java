@@ -15,9 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.projeto.upload.modelo.Imagem;
 import com.projeto.upload.modelo.Produto;
-import com.projeto.upload.repositorio.ImageRepository;
 import com.projeto.upload.repositorio.ProdutoRepository;
 import com.projeto.upload.servico.ImagemService;
 
