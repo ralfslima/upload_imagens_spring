@@ -10,9 +10,10 @@ Desenvolvimento de um projeto em Spring Boot, onde é possível realizar o cadas
 
 ### Realizando testes
 Primeiro precisamos cadastrar um produto sem a imagem:
-<img src="https://github.com/ralfslima/upload_imagens_spring/blob/main/imagens/01.png">
-
-Em seguida podemos cadastrar a imagem, envie as informações via form-data ou simplesmente form:
 <img src="https://github.com/ralfslima/upload_imagens_spring/blob/main/imagens/02.png">
 
+Em seguida podemos cadastrar a imagem, envie as informações via form-data ou simplesmente form:
+<img src="https://github.com/ralfslima/upload_imagens_spring/blob/main/imagens/01.png">
+
+<br>
 Em caso de dúvidas, fico à disposição.
